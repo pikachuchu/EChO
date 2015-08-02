@@ -1,10 +1,7 @@
-# EChO
-Engineering Chamber Orchestra, or EChO, is a student organization at UT Austin dedicated to:
+# EChO Emails
 
-1. Providing students from all majors and backgrounds an opportunity to continue their passion for music.
-2. Spreading appreciation of all forms of music to the greater Austin community.
-
-## Links
-- [Website](http://sites.utexas.edu/echo/)
-- [Facebook Page](https://www.facebook.com/EngineeringChamberOrchestra)
-- [EChO-ing Best Practices](http://pikachuchu.github.io/EChO)
+## Archive
+- [20150728 Director Auditions/Summer Recital](http://eepurl.com/butlq5)
+- [20150715 Director Auditions](http://eepurl.com/btotsn)
+- [20150621 Summer Recital](http://eepurl.com/bq50-j)
+- [20150615 Newsletter](http://eepurl.com/bp599j)
