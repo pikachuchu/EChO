@@ -1,42 +1,42 @@
-20150615 Newsletter #0
+# 20150615 Newsletter #0
 
-# Table of Contents
+## Table of Contents
 - Concert Pictures and Recordings
 - End of Semester Survey
 - Summer Orientation Org Fairs
 - Farewell Note
 
-# Sidebar
-## Upcoming Events
-### Freshman Orientation Org Fair
+## Sidebar
+### Upcoming Events
+#### Freshman Orientation Org Fair
 - Dates: Mondays; 6/22, 6/29, 7/6, 7/13
 - Time: 4:00 - 6:30 PM
 - Location: Gregory Plaza
 - To Get Involved: Contact Hayden Messamore at echo.libraries@gmail.com
 
-### Transfer Orientation Org Fair
+#### Transfer Orientation Org Fair
 - Dates: Fridays; 6/26, 7/10, 7/17
 - Time: 1:30 - 3:30 PM
 - Location: West Mall
 - To Get Involved: Contact Emily James at echo.treasurer@gmail.com
 
-### First Day of Classes
+#### First Day of Classes
 - Date: Wednesday, 8/26
 
-## Featured Gig Performers
+### Featured Gig Performers
 Thanks to Wilton Snead, Adam Peir, and Andrea Peir for performing at the Department of Economics Commencement Ceremony on May 23rd!
 
 If you're interested in requesting a gig for an event or performing in future gigs, contact Jessica Lin at echo.vpexternal@gmail.com.
 
-## Resources
+### Resources
 - Contents of our current music library: goo.gl/beK2ZM. We welcome any suggestions at echo.libraries@gmail.com.
 
 - Photos: goo.gl/ip9uir
 
 - Constitution: goo.gl/fM9yq7
 
-# Content
-## Concert Pictures and Recordings
+## Content
+### Concert Pictures and Recordings
 Pictures from the Spring Concert Series are uploaded on the EChO Facebook Page at on.fb.me/1MjLlqd.
 
 Audio recordings of the performances can be found at goo.gl/6cNxMy. Videos are uploaded on Youtube at bit.ly/1FSJuGA.
@@ -45,10 +45,10 @@ Feel free to download and use the media as you wish. If you have any issues with
 
 ![](https://gallery.mailchimp.com/4cce631cf7f0b42c0525528f1/images/4cf6c4e1-6546-4d13-90bd-f220696d551f.jpg)
 
-## End of Semester Survey
+### End of Semester Survey
 Please take a few minutes to fill out the following survey: goo.gl/forms/XmnE1P720p. The officer team would really appreciate the feedback in order to create the best EChO experience for you.
 
-## Summer Orientation Org Fairs
+### Summer Orientation Org Fairs
 ![](https://gallery.mailchimp.com/4cce631cf7f0b42c0525528f1/images/8aab4446-2462-4ed7-8ff2-62ff9ec5cf70.jpg)
 
 EChO will be participating in both the Freshman and Transfer Student Orientation Org Fairs this summer. This is great opportunity to meet prospective members and share your experiences with them. If you're in Austin this summer and would like to help out, please contact Hayden Messamore at echo.libraries@gmail.com for Freshman Orientation and Emily James at echo.treasurer@gmail.com for Transfer Orientation.
@@ -64,7 +64,7 @@ The Transfer Orientation Fair will be on the following Fridays from 1:30 - 3:30 
 - July 10th
 - July 17th
 
-## Farewell Note from Your Outgoing President, Khang Huynh
+### Farewell Note from Your Outgoing President, Khang Huynh
 To my fellow friends of the esteemed Engineering Chamber Orchestra,
  
 For the past four years, there has been no other organization for which I have sacrificed so much time and energy as Engineering Chamber Orchestra. Many of my fondest memories in my undergraduate years have been made with EChO as my accomplice. I have made so many great friends, discovered new music, and explored Austin’s finest treasures. And now to callously rip from my embrace my greatest love my life is such a cruel sin. Alas, I only have my heart and my thoughts to sustain me. But what an adventure it has been!
@@ -81,3 +81,9 @@ Thank you to all of you for such an amazing four years. I have the utmost respec
  
 With lots of love and hugs,
 Khang
+
+## Signature
+Thanks for reading and have a great summer,
+
+Sarah Ma
+President | 2015-2016
