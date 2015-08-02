@@ -1,4 +1,4 @@
-[EChO-ing Best Practices](https://github.com/pikachuchu/EChO)
+[EChO-ing Best Practices](https://pikachuchu.github.io/EChO)
 
 Sections to Add:
 - History of EChO
